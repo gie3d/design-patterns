@@ -59,15 +59,15 @@ duck1.PerformQuack();
 ```
 
 ```csharp
-Duck duck1 = new RedheadDuck();
-duck1.PerformFly();
-duck1.PerformQuack();
+Duck duck2 = new RedheadDuck();
+duck2.PerformFly();
+duck2.PerformQuack();
 ```
 
 ```csharp
-Duck duck1 = new RubberDuck();
-duck1.PerformFly();
-duck1.PerformQuack();
+Duck duck3 = new RubberDuck();
+duck3.PerformFly();
+duck3.PerformQuack();
 ```
 
 In this behavior, it's also possible to change behavior during run time.
